@@ -6,7 +6,7 @@
 <h1 align="center">🚀 CryptoDash – Real-Time Cryptocurrency Dashboard</h1>
 
 <p align="center">
-  Live crypto prices • Interactive charts • Responsive UI  
+  Live crypto prices • Interactive charts • Responsive UI   
   <br />
   Built with ❤️ using React + Tailwind + CoinGecko API
 </p>
