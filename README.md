@@ -13,15 +13,6 @@
 
 ---
 
-## 🌟 Overview
-
-CryptoDash ek modern, fast aur fully-responsive cryptocurrency dashboard hai.  
-Iska purpose hai real-time crypto data ko ek clean, minimal aur interactive UI me present karna — charts, prices, market cap, volume sab ek hi screen par.
-
-Aap chahe beginner ho ya intermediate developer, ye project aapke portfolio me 🔥 value add karega.
-
----
-
 ## ✨ Features
 
 ### 🔥 Real-Time Market Data
