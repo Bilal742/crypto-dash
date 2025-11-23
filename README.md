@@ -3,7 +3,7 @@
 CryptoDash ek modern aur responsive cryptocurrency dashboard hai jo live market data, charts, aur coin details show karta hai. UI clean, fast aur beginner-friendly banaya gaya hai.
 
 ---
-
+ 
 ## 📌 Features
  
 ### ✅ Live Crypto Market Data
