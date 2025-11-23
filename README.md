@@ -1,16 +1,40 @@
-# React + Vite
+# 🚀 CryptoDash – Real-Time Cryptocurrency Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CryptoDash ek modern aur responsive cryptocurrency dashboard hai jo live market data, charts, aur coin details show karta hai. UI clean, fast aur beginner-friendly banaya gaya hai.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Features
 
-## React Compiler
+### ✅ Live Crypto Market Data
+- Real-time price updates  
+- 24h change percentage  
+- Market cap  
+- Volume  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 📊 Interactive Charts
+- Smooth crypto price chart  
+- Responsive for all screens  
 
-## Expanding the ESLint configuration
+### 🔍 Search & Filter
+- Coin search  
+- Sorting by price, rank, market cap  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 📱 Fully Responsive UI
+- Mobile friendly  
+- Tablet support  
+- Desktop optimized  
+
+### ⚙️ Tech Stack
+- **React + Vite**
+- **Tailwind CSS**
+- **Axios**
+- **CoinGecko API**
+
+---
+
+## 🛠️ Installation & Setup
+
+### 1️⃣ Clone Repository
+```bash
+git clone https://github.com/Bilal742/crypto-dash.git
