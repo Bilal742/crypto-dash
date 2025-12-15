@@ -9,7 +9,7 @@
   Live crypto prices • Interactive charts • Responsive UI   
   <br /> 
   Built with ❤️ using React + Tailwind + CoinGecko API
-</p>
+</p> 
 
 ---
 ## ✨ Features
